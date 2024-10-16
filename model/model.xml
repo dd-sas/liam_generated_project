@@ -3,7 +3,7 @@
     <meta id="studioUploadedBy">sasboot</meta>
     <meta id="studioUploaded">1729089630546</meta>
     <meta id="studioModifiedBy">sasboot</meta>
-    <meta id="studioModified">1729090008565</meta>
+    <meta id="studioModified">1729090091325</meta>
     <meta id="layout">{"cq1":{"ModelReader":{"x":50,"y":50},"Score":{"x":50,"y":175},"Source":{"x":290,"y":50}}}</meta>
   </metadata>
   <contqueries>
@@ -13,32 +13,32 @@
           <schema>
             <fields>
               <field name="id" type="int64" key="true"/>
-              <field name="New_field_0" type="string"/>
-              <field name="New_field_1" type="string"/>
-              <field name="New_field_2" type="string"/>
-              <field name="New_field_3" type="string"/>
-              <field name="New_field_4" type="string"/>
-              <field name="New_field_5" type="string"/>
-              <field name="New_field_6" type="string"/>
-              <field name="New_field_7" type="string"/>
-              <field name="New_field_8" type="string"/>
-              <field name="New_field_9" type="string"/>
-              <field name="New_field_10" type="string"/>
-              <field name="New_field_11" type="string"/>
-              <field name="New_field_12" type="string"/>
-              <field name="New_field_13" type="string"/>
-              <field name="New_field_14" type="string"/>
-              <field name="New_field_15" type="string"/>
-              <field name="New_field_16" type="string"/>
-              <field name="New_field_17" type="string"/>
-              <field name="New_field_18" type="string"/>
-              <field name="New_field_19" type="string"/>
-              <field name="New_field_20" type="string"/>
-              <field name="New_field_21" type="string"/>
-              <field name="New_field_22" type="string"/>
-              <field name="New_field_23" type="string"/>
-              <field name="New_field_24" type="string"/>
-              <field name="New_field_25" type="string"/>
+              <field name="New_field_0" type="double"/>
+              <field name="New_field_1" type="double"/>
+              <field name="New_field_2" type="double"/>
+              <field name="New_field_3" type="double"/>
+              <field name="New_field_4" type="double"/>
+              <field name="New_field_5" type="double"/>
+              <field name="New_field_6" type="double"/>
+              <field name="New_field_7" type="double"/>
+              <field name="New_field_8" type="double"/>
+              <field name="New_field_9" type="double"/>
+              <field name="New_field_10" type="double"/>
+              <field name="New_field_11" type="double"/>
+              <field name="New_field_12" type="double"/>
+              <field name="New_field_13" type="double"/>
+              <field name="New_field_14" type="double"/>
+              <field name="New_field_15" type="double"/>
+              <field name="New_field_16" type="double"/>
+              <field name="New_field_17" type="double"/>
+              <field name="New_field_18" type="double"/>
+              <field name="New_field_19" type="double"/>
+              <field name="New_field_20" type="double"/>
+              <field name="New_field_21" type="double"/>
+              <field name="New_field_22" type="double"/>
+              <field name="New_field_23" type="double"/>
+              <field name="New_field_24" type="double"/>
+              <field name="New_field_25" type="double"/>
             </fields>
           </schema>
           <connectors>
