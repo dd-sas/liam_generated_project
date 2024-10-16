@@ -3,7 +3,7 @@
     <meta id="studioUploadedBy">sasboot</meta>
     <meta id="studioUploaded">1729089630546</meta>
     <meta id="studioModifiedBy">sasboot</meta>
-    <meta id="studioModified">1729090091325</meta>
+    <meta id="studioModified">1729090347253</meta>
     <meta id="layout">{"cq1":{"ModelReader":{"x":50,"y":50},"Score":{"x":50,"y":175},"Source":{"x":290,"y":50}}}</meta>
   </metadata>
   <contqueries>
@@ -74,7 +74,30 @@
             <offline model-type="astore">
               <input-map>
                 <properties>
-                  <property name="x1"><![CDATA[New_field_2]]></property>
+                  <property name="x1"><![CDATA[New_field_1]]></property>
+                  <property name="x2"><![CDATA[New_field_2]]></property>
+                  <property name="x3"><![CDATA[New_field_3]]></property>
+                  <property name="x4"><![CDATA[New_field_4]]></property>
+                  <property name="x5"><![CDATA[New_field_5]]></property>
+                  <property name="x6"><![CDATA[New_field_6]]></property>
+                  <property name="x7"><![CDATA[New_field_7]]></property>
+                  <property name="x8"><![CDATA[New_field_8]]></property>
+                  <property name="x9"><![CDATA[New_field_9]]></property>
+                  <property name="x10"><![CDATA[New_field_10]]></property>
+                  <property name="x11"><![CDATA[New_field_11]]></property>
+                  <property name="x12"><![CDATA[New_field_12]]></property>
+                  <property name="x13"><![CDATA[New_field_13]]></property>
+                  <property name="x14"><![CDATA[New_field_14]]></property>
+                  <property name="x15"><![CDATA[New_field_15]]></property>
+                  <property name="x16"><![CDATA[New_field_16]]></property>
+                  <property name="x17"><![CDATA[New_field_17]]></property>
+                  <property name="x18"><![CDATA[New_field_18]]></property>
+                  <property name="x19"><![CDATA[New_field_19]]></property>
+                  <property name="x20"><![CDATA[New_field_20]]></property>
+                  <property name="x21"><![CDATA[New_field_21]]></property>
+                  <property name="x22"><![CDATA[New_field_22]]></property>
+                  <property name="x23"><![CDATA[New_field_23]]></property>
+                  <property name="x24"><![CDATA[New_field_24]]></property>
                 </properties>
               </input-map>
               <output-map>
