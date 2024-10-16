@@ -3,7 +3,7 @@
     <meta id="studioUploadedBy">sasboot</meta>
     <meta id="studioUploaded">1729089630546</meta>
     <meta id="studioModifiedBy">sasboot</meta>
-    <meta id="studioModified">1729090347253</meta>
+    <meta id="studioModified">1729090378164</meta>
     <meta id="layout">{"cq1":{"ModelReader":{"x":50,"y":50},"Score":{"x":50,"y":175},"Source":{"x":290,"y":50}}}</meta>
   </metadata>
   <contqueries>
@@ -68,6 +68,7 @@
             <fields>
               <field name="_SVDDDISTANCE_" type="double"/>
               <field name="_SVDDSCORE_" type="double"/>
+              <field name="id" type="int64" key="true"/>
             </fields>
           </schema>
           <models>
