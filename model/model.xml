@@ -3,13 +3,13 @@
     <meta id="studioUploadedBy">sasboot</meta>
     <meta id="studioUploaded">1729089630546</meta>
     <meta id="studioModifiedBy">sasboot</meta>
-    <meta id="studioModified">1729089739460</meta>
+    <meta id="studioModified">1729090008565</meta>
     <meta id="layout">{"cq1":{"ModelReader":{"x":50,"y":50},"Score":{"x":50,"y":175},"Source":{"x":290,"y":50}}}</meta>
   </metadata>
   <contqueries>
     <contquery name="cq1" trace="Score">
       <windows>
-        <window-source name="Source" autogen-key="true" insert-only="true">
+        <window-source autogen-key="true" insert-only="true" name="Source">
           <schema>
             <fields>
               <field name="id" type="int64" key="true"/>
@@ -42,7 +42,7 @@
             </fields>
           </schema>
           <connectors>
-            <connector name="Score_connector" class="fs">
+            <connector class="fs" name="Score_connector">
               <properties>
                 <property name="type"><![CDATA[pub]]></property>
                 <property name="fstype"><![CDATA[csv]]></property>
